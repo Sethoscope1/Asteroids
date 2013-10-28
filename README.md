@@ -11,7 +11,7 @@ None
 
 Open index.html in your web browser to play.
 
-#### Controls
+### Controls
 
 *  Left & Right Arrow Keys - Change Direction
 *  Forward & Backward Arrow Keys - Accelerate/Decelerate
