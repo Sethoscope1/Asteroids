@@ -22,5 +22,5 @@ This is a quick and dirty Asteroids clone, made as an exercise to get acquainted
 
 ### Credits
 
-The basic game and early rendering were written with Tristan Pendergrass -
+The basic game and early rendering were written with Tristan Pendergrass - github.com/tristanpendergrass.
 
